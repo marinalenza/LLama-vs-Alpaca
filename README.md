@@ -7,9 +7,10 @@ In a recent pool made on my instagram, 70% of the respondents said that they can
 
 In this project a CNN was implemented and tested with pictures of alpacas and llamas reaching a 69.23% accuracy with the baseline model, superior than humans.
 
-![Test Images with Predictions](notebooks/test_images_with_predictions.png)
+![Test Images with Predictions](notebooks/test_images.png)
 
 ## Highlights
 
+- Collected and labeled multiple photos of llamas and alpacas
 - Built a CNN architecture to differentiate images from alpacas and llamas using Keras and Tensorflow
 - Achieved 69.23% accuracy on test dataset
