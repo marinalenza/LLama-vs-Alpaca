@@ -14,3 +14,6 @@ In this project a CNN was implemented and tested with pictures of alpacas and ll
 - Collected and labeled multiple photos of llamas and alpacas
 - Built a CNN architecture to differentiate images from alpacas and llamas using Keras and Tensorflow
 - Achieved 69.23% accuracy on test dataset
+
+## Lessons Learned
+[Lessons Learned Llama vs.Alpaca](https://github.com/marinalenza/LLama-vs-Alpaca/blob/main/doc/Lessons_Learned.MD)
